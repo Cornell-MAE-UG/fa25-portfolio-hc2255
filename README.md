@@ -1,4 +1,3 @@
-Worked together with rishabhd625 
 # Portfolio Instructions
 
 
