@@ -47,12 +47,13 @@ Virginia Cooperative Extension. (2025, August 21). *Spotted lanternfly* (ENTO-18
 
 Cornell University College of Agriculture and Life Sciences. (n.d.). *Spotted lanternfly biology and lifecycle*. Cornell University. Retrieved February 20, 2026, from [https://cals.cornell.edu/integrated-pest-management/outreach-education/whats-bugging-you/spotted-lanternfly/spotted-lanternfly-biology-and-lifecycle](https://cals.cornell.edu/integrated-pest-management/outreach-education/whats-bugging-you/spotted-lanternfly/spotted-lanternfly-biology-and-lifecycle)
 
-Evidence of receptivity to vibroacoustic stimuli in the spotted lanternfly Lycorma Delicatula (Hemiptera: Fulgoridae) | Journal of Economic Entomology | Oxford academic. (n.d.). [https://academic.oup.com/jee/article/115/6/2116/6777183](https://academic.oup.com/jee/article/115/6/2116/6777183) 
+Evidence of receptivity to vibroacoustic stimuli in the spotted lanternfly Lycorma Delicatula (Hemiptera: Fulgoridae) | Journal of Economic Entomology Oxford academic. (n.d.). [https://academic.oup.com/jee/article/115/6/2116/6777183](https://academic.oup.com/jee/article/115/6/2116/6777183) 
 
 Cooperband, M. F., & Murman, K. M. (2025, September 4). *Improving traps for spotted lanternflies, Lycorma Delicatula (Hemiptera: Fulgoridae), by leveraging their own signals*. MDPI. [https://www.mdpi.com/2075-4450/16/9/930](https://www.mdpi.com/2075-4450/16/9/930) 
 
 Baker, T. C., Myrick, A. J., Wolfin, M. S., & Wang, Y. (n.d.). *Visual responses of flight-dispersing spotted lanternflies, lycorma delicatula toward a tall vertical silhouette in a vineyard*. Penn State. [https://pure.psu.edu/en/publications/visual-responses-of-flight-dispersing-spotted-lanternflies-lycorm](https://pure.psu.edu/en/publications/visual-responses-of-flight-dispersing-spotted-lanternflies-lycorm) 
 
 **Figures**  
-{{ "trapsketch.png" | relative_url }}
+<img src="/assets/images/trapsketch.png" width="200">
+
 Figure 1: Mesh bag attracts lanternflies inside and traps them.
