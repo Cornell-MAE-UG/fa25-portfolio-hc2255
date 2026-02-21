@@ -1,3 +1,9 @@
+---
+layout: project
+title: Client Pitch SLFs
+description: A design concept meant to solve the issue of SLFs
+image: /assets/images/trapsketch.png
+---
 # **A Totally Inconspicuous Bag**
 
 **Team:** *Friday AM MAE 2250 ODP Final Project Team Table One (FAMMAE2250ODPFPTT1)*  
